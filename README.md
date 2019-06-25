@@ -14,3 +14,4 @@ System.out.println("Enter the designation of the employee");
 					} else
 						System.out.println("Designation is  not correct as per salary. Please Re enter the designatio");
 				}
+http://ndafile:8081/iUpload/upload/upload.action
